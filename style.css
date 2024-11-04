@@ -38,6 +38,11 @@
 
 .ahref {
   color: #000;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.h3container{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .ahref:hover {
@@ -57,8 +62,13 @@
   font-size: 30px;
 }
 
+.h4_lorem{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .h1_box {
   font-size: 50px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .img3 {
@@ -91,7 +101,7 @@
 
 .h2_section {
   border-bottom: 1px solid #000;
-  
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 .btn:hover {
@@ -102,10 +112,10 @@
 }
 
 .p_navbar{
-  width: 800px;
+  width: 900px;
   align-items: center;
   padding-left: 21rem;
-  
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .container1{
@@ -117,19 +127,67 @@
   display: flex;
   height: 350px;
   align-items: center;
+  margin: auto;
 }
 
 .shadow1{
-  box-shadow: 4px 4px 4px 4px #7d7d7d;
-  max-width: 200px;
+  box-shadow: 0px 0px 7px -1px #7d7d7d;
+  max-width: 300px;
   height: 300px;
-  
+  border-radius: 20px;
+  margin: auto;
+  padding: 20px;
 }
 
 .h3_ul{
-  padding-top: 20px;
+  padding-top: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .img_li{
   padding-top: 30px;
+}
+
+.box33{
+  justify-content: space-around;
+  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.box22{
+  justify-content: space-around;
+}
+
+.li_22{
+  justify-content: space-around;
+}
+
+.btn2 {
+  width: 150px;
+  height: 40px;
+  background-color: #458ff6;
+  margin-top: 40px;
+  border: 2px solid #458ff6;
+  color: #fff;
+  border-radius: 30px;
+}
+
+.btn2:hover {
+  border: 3px solid #168ec1;
+  background-color: aliceblue;
+  color: #168ec1;
+  cursor: pointer;
+}
+
+.readmore{
+  max-width: 1400px;
+  margin: 0 auto;
+  margin-left: 610px;
+  margin-top: 30px;
+}
+
+.p3_ul{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #7d7d7d;
 }
