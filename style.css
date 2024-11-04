@@ -191,3 +191,21 @@
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #7d7d7d;
 }
+
+.flexFor{
+  max-width: 1400px;
+  margin: 0 auto;
+  margin-top: 150px;
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+
+.h2_karobka{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  width: 500px;
+}
+
+.p_karobka{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
