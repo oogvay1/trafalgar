@@ -91,6 +91,7 @@
 
 .h2_section {
   border-bottom: 1px solid #000;
+  
 }
 
 .btn:hover {
@@ -101,7 +102,34 @@
 }
 
 .p_navbar{
-  width: 1px;
+  width: 800px;
   align-items: center;
+  padding-left: 21rem;
   
+}
+
+.container1{
+  max-width: 1400px;
+  margin: auto;
+}
+
+.li_22{
+  display: flex;
+  height: 350px;
+  align-items: center;
+}
+
+.shadow1{
+  box-shadow: 4px 4px 4px 4px #7d7d7d;
+  max-width: 200px;
+  height: 300px;
+  
+}
+
+.h3_ul{
+  padding-top: 20px;
+}
+
+.img_li{
+  padding-top: 30px;
 }
