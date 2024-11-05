@@ -312,11 +312,15 @@
   margin: auto;
   width: 100%;
   margin-top: 10rem;
+  background-color: #3db9fc;
+  height: 460px;
+  border-radius: 20px;
+  width: 80%;
 }
 
 .main{
   justify-content: center;
-  align-items: ;
+  display: flex;
 }
 
 .Carnaval{
@@ -327,10 +331,67 @@
 
 .h2carnaval{
   justify-content: space-around;
-  margin-bottom: 200px;
+  margin-bottom: 130px;
   font-size: 40px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-top: 60px;
+  color: #fff;
 }
 
 .the_boys2{
   max-width: 380px;
+  align-items: center;
+  margin-top: 12px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  color: #fff;
+}
+
+.the_boys{
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.pp{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  color: #fff;
+}
+
+.h3carnaval{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  color: #fff;
+}
+
+.arrov{
+  justify-content: center;
+  display: flex;
+  margin-top: 40px;
+}
+
+.bratimg{
+  width: 153px;
+  height: 153px;
+}
+
+.element_1{
+  position: absolute;
+  margin: auto;
+  max-width: 1400px;
+  top: 250rem;
+  left: 15rem;
+}
+
+.element{
+  max-width: 1400px;
+  margin: auto;
+}
+
+.element_2{
+  position: absolute;
+  max-width: 1400px;
+  margin: auto;
+  left: 100px;
 }
